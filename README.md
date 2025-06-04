@@ -2,6 +2,8 @@
 
 A personal portfolio + learning sandbox built with React + TypeScript + Vite.
 
+🌐 **Live Site**: [my-personal-site-tan-zeta.vercel.app](https://my-personal-site-tan-zeta.vercel.app)
+
 ---
 
 ## 🚀 Features
